@@ -9,7 +9,7 @@ public class Question {
 		// String:  function -> 0=2,Tekschool oo
 		// Character: aa, cc, rr
 		
-		
+		System.out.println("hello world");
 		
 		
 	}
